@@ -1,0 +1,9 @@
+stdio.h
+stdlib.h
+string.h
+time.h
+unistd.h
+arpa/inet.h
+sys/types.h
+sys/socket.h
+sys/wait.h
